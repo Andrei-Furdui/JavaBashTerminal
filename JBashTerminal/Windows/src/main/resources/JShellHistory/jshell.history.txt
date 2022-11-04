@@ -1,0 +1,26 @@
+[Fri Nov 04 10:48:01 EET 2022]:  history clean
+[Fri Nov 04 13:33:54 EET 2022]:  pwd
+[Fri Nov 04 13:33:56 EET 2022]:  ls -l
+[Fri Nov 04 13:40:08 EET 2022]:  ls -l
+[Fri Nov 04 13:40:32 EET 2022]:  rmdir ppp
+[Fri Nov 04 13:40:35 EET 2022]:  rm andrei.txt
+[Fri Nov 04 13:40:38 EET 2022]:  mkdir andrei_dor
+[Fri Nov 04 13:40:41 EET 2022]:  ls -l
+[Fri Nov 04 13:41:59 EET 2022]:  ls -l
+[Fri Nov 04 13:43:44 EET 2022]:  ls -l
+[Fri Nov 04 13:44:08 EET 2022]:  ls -l
+[Fri Nov 04 13:45:29 EET 2022]:  ls -l
+[Fri Nov 04 13:46:45 EET 2022]:  ls -l
+[Fri Nov 04 13:47:36 EET 2022]:  ls -l
+[Fri Nov 04 13:48:29 EET 2022]:  ls -l
+[Fri Nov 04 13:48:57 EET 2022]:  ls -l
+[Fri Nov 04 13:49:16 EET 2022]:  ls -l
+[Fri Nov 04 13:49:23 EET 2022]:  touch andrei.txt
+[Fri Nov 04 13:49:25 EET 2022]:  ls -l
+[Fri Nov 04 13:49:43 EET 2022]:  rm andrei_dor
+[Fri Nov 04 13:49:46 EET 2022]:  rm andrei.txt
+[Fri Nov 04 13:51:15 EET 2022]:  pwd
+[Fri Nov 04 13:51:17 EET 2022]:  time
+[Fri Nov 04 14:11:52 EET 2022]:  ls -l
+[Fri Nov 04 14:12:00 EET 2022]:  time
+[Fri Nov 04 14:12:01 EET 2022]:  pwd
